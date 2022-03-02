@@ -6,7 +6,7 @@
 * **[Causes I care](https://paulkasemsap.github.io/causes/)** - a brief note on global concerns that I care
 * **[Paul for thought 2.0](https://paulkasemsap.github.io/paulforthought/)** - a collection of ideas and inspirations
 
-Let's solve problems together! Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), come [@plantwithpaul](https://www.instagram.com/plantwithpaul/?hl=en), or Tweet to [@paulkasemsap](https://twitter.com/paulkasemsap)
+Let's solve problems together! Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), come [@plantwithpaul](https://www.instagram.com/plantwithpaul/?hl=en), Tweet to [@paulkasemsap](https://twitter.com/paulkasemsap), or visit https://orcid.org/0000-0002-9322-8682
 
 <!--
 **paulkasemsap/paulkasemsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
