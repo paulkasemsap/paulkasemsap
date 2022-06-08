@@ -1,6 +1,6 @@
 ### Sa wàt dii krab (สวัสดี; Hello in Thai) 👋
 
-### I am a plant scientist with passion for identifying and implementing the best practices in _food production :ear_of_rice: , science education_ :microscope: and _climate change mitigation_ :earth_asia:. 
+### I do sciences with plants! —— Driven by curiosity and passion for identifying and implementing the best practices in _food production :ear_of_rice: , science education_ :microscope: and _climate change mitigation_ :earth_asia:. 
 
 * **[Curiosity](https://paulkasemsap.github.io/curiosity/)** - an abbreviated, research-ish version of my Curriculum Vitae
 * **[Causes I care](https://paulkasemsap.github.io/causes/)** - a brief note on global concerns that I care
