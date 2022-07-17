@@ -8,6 +8,19 @@
 
 Let's solve problems together! Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), come [@plantwithpaul](https://www.instagram.com/plantwithpaul/?hl=en), Tweet to [@paulkasemsap](https://twitter.com/paulkasemsap), or visit https://orcid.org/0000-0002-9322-8682
 
+<p align="center">
+<a href="https://twitter.com/paulkasemsap"><img src="https://img.shields.io/badge/-@paulkasemsap-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulkasemsap)" alt="twitter"></a>
+
+<a href="https://www.linkedin.com/in/pkasemsap/"><img src="https://img.shields.io/badge/pkasemsap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulkasemsap/" alt="LinkedIn"></a>
+
+<a href="https://www.instagram.com/plantwithpaul/?hl=en"><img src="https://img.shields.io/badge/PlantwithPaul-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="instagram"></a>
+
+<a href="https://github.com/paulkasemsap"><img src="https://visitor-badge.glitch.me/badge?page_id=paulkasemsap.visitor-badge" alt="visitor"></a>
+</p>
+
+https://visitor-badge.glitch.me/badge?page_id=paulkasemsap.visitor-badge
+</p>
+
 <!--
 **paulkasemsap/paulkasemsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
