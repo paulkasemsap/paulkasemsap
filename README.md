@@ -12,6 +12,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 <a href="https://www.linkedin.com/in/pkasemsap/"><img src="https://img.shields.io/badge/pkasemsap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulkasemsap/" alt="LinkedIn"></a>
 <a href="https://twitter.com/paulkasemsap"><img src="https://img.shields.io/badge/-@paulkasemsap-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/paulkasemsap)" alt="twitter"></a>
 <a href="https://www.instagram.com/plantwithpaul/?hl=en"><img src="https://img.shields.io/badge/plantwithpaul-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white"alt="instagram"></a>
+<a href="https://orcid.org/0000-0002-9322-8682"><img src="https://img.shields.io/badge/ORCID-0000--0002--9322--8682-green?style=flat"alt="orcid"></a>
 <a href="https://github.com/paulkasemsap"><img src="https://visitor-badge.glitch.me/badge?page_id=paulkasemsap.visitor-badge" alt="visitor"></a>
 </p>
 
