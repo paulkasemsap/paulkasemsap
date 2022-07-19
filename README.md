@@ -6,7 +6,7 @@
 * **[Causes I care](https://paulkasemsap.github.io/causes/)** - a brief note on global concerns that I care
 * **[Paul for thought 2.0](https://paulkasemsap.github.io/paulforthought/)** - a collection of ideas and inspirations
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [@paulkasemsap](https://twitter.com/paulkasemsap), come [@plantwithpaul](https://www.instagram.com/plantwithpaul/?hl=en), or visit https://orcid.org/0000-0002-9322-8682
+Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [@paulkasemsap](https://twitter.com/paulkasemsap), come [@plantwithpaul](https://www.instagram.com/plantwithpaul/?hl=en), or visit [ORCID](https://orcid.org/0000-0002-9322-8682).
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pkasemsap/"><img src="https://img.shields.io/badge/pkasemsap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulkasemsap/" alt="LinkedIn"></a>
