@@ -25,7 +25,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 - [If you could choose better, would you?](https://paulkasemsap.github.io/thoughts/2022/05/12/If-you-could-choose-better.html)
 <!-- BLOG-POST-LIST:END -->
 
-### :open_book:Currently reading
+### :open_book: Currently reading
 <!-- GOODREADS-LIST:START -->
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4898290103?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4898285856?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.36)
