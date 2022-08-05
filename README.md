@@ -18,6 +18,11 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 
 ### Paul for thoughts
 <!-- BLOG-POST-LIST:START -->
+- [Everything, Everywhere, All at Once](https://paulkasemsap.github.io/thoughts/inspirations/2022/08/01/everything-everywhere-all-at-once.html)
+- [UC Davis Plant Sciences Symposium 2022 Award Winners Announced - Paul gave the best student talk!](https://paulkasemsap.github.io/news/2022/06/27/UC-Davis-Plant-Sciences-Symposium-2022-best-talk.html)
+- [I was told that: Opportunity is like a bus](https://paulkasemsap.github.io/inspirations/2022/05/20/opportunity.html)
+- [I was told that: It’s what you do that defines you. Is it?](https://paulkasemsap.github.io/inspirations/2022/05/20/what-defines-you.html)
+- [If you could choose better, would you?](https://paulkasemsap.github.io/thoughts/2022/05/12/If-you-could-choose-better.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Currently reading
