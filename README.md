@@ -16,7 +16,11 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 <a href="https://github.com/paulkasemsap"><img src="https://visitor-badge.glitch.me/badge?page_id=paulkasemsap.visitor-badge" alt="visitor"></a>
 </p>
 
-### Books I'm currently reading
+### Paul for thoughts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
