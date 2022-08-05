@@ -16,7 +16,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 <a href="https://github.com/paulkasemsap"><img src="https://visitor-badge.glitch.me/badge?page_id=paulkasemsap.visitor-badge" alt="visitor"></a>
 </p>
 
-### Paul for thoughts 2.0
+### :bulb: Latest Paul for thoughts 2.0
 <!-- BLOG-POST-LIST:START -->
 - [Everything, Everywhere, All at Once](https://paulkasemsap.github.io/thoughts/inspirations/2022/08/01/everything-everywhere-all-at-once.html)
 - [UC Davis Plant Sciences Symposium 2022 Award Winners Announced - Paul gave the best student talk!](https://paulkasemsap.github.io/news/2022/06/27/UC-Davis-Plant-Sciences-Symposium-2022-best-talk.html)
@@ -25,7 +25,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 - [If you could choose better, would you?](https://paulkasemsap.github.io/thoughts/2022/05/12/If-you-could-choose-better.html)
 <!-- BLOG-POST-LIST:END -->
 
-### Currently reading
+### :open_book:Currently reading
 <!-- GOODREADS-LIST:START -->
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4898290103?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4898285856?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.36)
