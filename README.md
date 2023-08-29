@@ -29,7 +29,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 <!-- GOODREADS-LIST:START -->
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4898290103?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4898285856?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.37)
-- [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/review/show/4898285338?utm_medium=api&utm_source=rss) by Richard H. Thaler (⭐️3.87)
+- [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/review/show/4898285338?utm_medium=api&utm_source=rss) by Richard H. Thaler (⭐️3.86)
 - [Bird by Bird](https://www.goodreads.com/review/show/4898284949?utm_medium=api&utm_source=rss) by Anne Lamott (⭐️4.23)
 <!-- GOODREADS-LIST:END -->
 
