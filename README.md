@@ -32,7 +32,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 - [Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty](https://www.goodreads.com/review/show/5929021092?utm_medium=api&utm_source=rss) by Abhijit V. Banerjee (⭐️4.29)
 - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/review/show/4898290103?utm_medium=api&utm_source=rss) by Jared Diamond (⭐️4.03)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/4898285856?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.37)
-- [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/review/show/4898285338?utm_medium=api&utm_source=rss) by Richard H. Thaler (⭐️3.86)
+- [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/review/show/4898285338?utm_medium=api&utm_source=rss) by Richard H. Thaler (⭐️3.87)
 <!-- GOODREADS-LIST:END -->
 
 <!--
