@@ -18,7 +18,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), tweet to [
 
 ### :bulb: Latest Paul for thoughts 2.0
 <!-- BLOG-POST-LIST:START -->
-- [Mission N-Possible: Influence of Inorganic Nitrogen Forms on Small Grain Crop Carbon Assimilation](https://paulkasemsap.github.io/news/2024/09/13/ucd_phd_missionn-possible.html)
+- [Mission N-Possible: Influence of Inorganic Nitrogen Forms on Small Grain Crop Carbon Assimilation](https://paulkasemsap.github.io/news/2024/09/13/ucd_phd_mission-n-possible.html)
 - [Genome-wide Association Study of Rice Vegetative Biomass under Different Inorganic Nitrogen Forms: Ammonium or Nitrate](https://paulkasemsap.github.io/news/2024/08/13/biorxiv-rice-rdp1-n-gwas.html)
 - [Genetic adaptation to ammonium sustains wheat grain quality and alleviates acclimation to CO2 enrichment](https://paulkasemsap.github.io/news/2023/11/23/biorxiv-wheat-NxCO2.html)
 - [Sharing research data](https://paulkasemsap.github.io/thoughts/2023/01/25/sharing-research-data.html)
