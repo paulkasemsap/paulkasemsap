@@ -18,11 +18,11 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), or visit [
 
 ### :bulb: Latest Paul for thoughts 2.0
 <!-- BLOG-POST-LIST:START -->
+- [Genome-wide Association Study of Rice Vegetative Growth under Ammonium or Nitrate Nutrition](https://paulkasemsap.github.io/news/2025/07/31/rice-rdp1-n-gwas.html)
+- [[Dataset] Vegetative biomass production under different inorganic nitrogen forms of the USDA rice &lpar;Oryza sativa L.&rpar; diversity panel 1](https://paulkasemsap.github.io/news/2025/03/17/dryad-rice-rdp1-n-gwas.html)
 - [Mission N-Possible: Influence of Inorganic Nitrogen Forms on Small Grain Crop Carbon Assimilation](https://paulkasemsap.github.io/news/2024/09/13/ucd_phd_mission-n-possible.html)
 - [Genome-wide Association Study of Rice Vegetative Biomass under Different Inorganic Nitrogen Forms: Ammonium or Nitrate](https://paulkasemsap.github.io/news/2024/08/13/biorxiv-rice-rdp1-n-gwas.html)
 - [Genetic adaptation to ammonium sustains wheat grain quality and alleviates acclimation to CO2 enrichment](https://paulkasemsap.github.io/news/2023/11/23/biorxiv-wheat-NxCO2.html)
-- [Sharing research data](https://paulkasemsap.github.io/thoughts/2023/01/25/sharing-research-data.html)
-- [Breeding for Higher Yields of Wheat and Rice through Modifying Nitrogen Metabolism](https://paulkasemsap.github.io/news/2022/12/23/plants12010085.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### :open_book: Currently reading
