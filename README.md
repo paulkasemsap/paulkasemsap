@@ -19,10 +19,10 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), or visit [
 ### :bulb: Latest Paul for thoughts 2.0
 <!-- BLOG-POST-LIST:START -->
 - [Genome-wide Association Study of Rice Vegetative Growth under Ammonium or Nitrate Nutrition](https://paulkasemsap.github.io/news/2025/07/31/rice-rdp1-n-gwas.html)
+- [The inaugural Bay Area Plant Hub Symposium 2025](https://paulkasemsap.github.io/news/inspirations/2025/04/17/Bay-Area-Plant-Hub-2025.html)
+- [How can we cultivate an innovative plant science community?](https://paulkasemsap.github.io/news/thoughts/inspirations/2025/04/16/cultivate-innovative-plant-science-community.html)
 - [[Dataset] Vegetative biomass production under different inorganic nitrogen forms of the USDA rice &lpar;Oryza sativa L.&rpar; diversity panel 1](https://paulkasemsap.github.io/news/2025/03/17/dryad-rice-rdp1-n-gwas.html)
 - [Mission N-Possible: Influence of Inorganic Nitrogen Forms on Small Grain Crop Carbon Assimilation](https://paulkasemsap.github.io/news/2024/09/13/ucd_phd_mission-n-possible.html)
-- [Genome-wide Association Study of Rice Vegetative Biomass under Different Inorganic Nitrogen Forms: Ammonium or Nitrate](https://paulkasemsap.github.io/news/2024/08/13/biorxiv-rice-rdp1-n-gwas.html)
-- [Genetic adaptation to ammonium sustains wheat grain quality and alleviates acclimation to CO2 enrichment](https://paulkasemsap.github.io/news/2023/11/23/biorxiv-wheat-NxCO2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### :open_book: Currently reading
