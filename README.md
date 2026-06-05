@@ -11,7 +11,6 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap), or visit [
 <p align="center">
 <a href="https://www.linkedin.com/in/pkasemsap/"><img src="https://img.shields.io/badge/pkasemsap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulkasemsap/" alt="LinkedIn"></a>
 <a href="https://orcid.org/0000-0002-9322-8682"><img src="https://img.shields.io/badge/ORCID-0000--0002--9322--8682-green?style=flat"alt="orcid"></a>
-<a href="https://github.com/paulkasemsap"><img src="https://visitor-badge.glitch.me/badge?page_id=paulkasemsap.visitor-badge" alt="visitor"></a>
 </p>
 
 ### :bulb: Latest Paul for thoughts 2.0
