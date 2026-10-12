@@ -1,13 +1,13 @@
 ### Sa wàt dii krab (สวัสดี; Hello in Thai) 👋
 
-###  I care about improving food resilience :ear_of_rice:, inclusive science education :microscope: and climate change mitigation/adaptation:earth_asia:. Let's solve problems together! 
+###  I care about improving food resilience :ear_of_rice:, inclusive science education :microscope: and climate change mitigation/adaptation:earth_asia:.
 
 * **[Currently@](https://paulkasemsap.github.io/current/)** - current whereabouts
 * **[Curiosity](https://paulkasemsap.github.io/curiosity/)** - why I do sciences!
 * **[Causes](https://paulkasemsap.github.io/causes/)** - global concerns that I care
 * **[Collections: Paul for thought 2.0](https://paulkasemsap.github.io/paulforthought/)** - notes, ideas, and inspirations
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap).
+ Let's solve problems together! Connect with me on [Linkedin](https://www.linkedin.com/in/pkasemsap).
 
 <p align="center">
 <a href="https://www.linkedin.com/in/pkasemsap/"><img src="https://img.shields.io/badge/pkasemsap-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulkasemsap/" alt="LinkedIn"></a>
