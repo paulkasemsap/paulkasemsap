@@ -16,11 +16,11 @@
 
 ### :bulb: Latest Paul for thoughts 2.0
 <!-- BLOG-POST-LIST:START -->
+- [Production of the bioplastic precursor 2-pyrone-4,6-dicarboxylic acid in sugarcane and sorghum](https://paulkasemsap.github.io/news/2026/11/17/JBEI-PDC.html)
 - [Natural Variations of Spring Wheat Nitrogen and Carbon Assimilation under Different Inorganic Nitrogen Forms and CO2 levels](https://paulkasemsap.github.io/news/2026/05/01/wheat-nsgcc-n-gwas-nam.html)
 - [Genome-wide Association Study of Rice Vegetative Growth under Ammonium or Nitrate Nutrition](https://paulkasemsap.github.io/news/2025/07/31/rice-rdp1-n-gwas.html)
 - [The inaugural Bay Area Plant Hub Symposium 2025](https://paulkasemsap.github.io/news/inspirations/2025/04/17/Bay-Area-Plant-Hub-2025.html)
 - [How can we cultivate an innovative plant science community?](https://paulkasemsap.github.io/news/thoughts/inspirations/2025/04/16/cultivate-innovative-plant-science-community.html)
-- [[Dataset] Vegetative biomass production under different inorganic nitrogen forms of the USDA rice &lpar;Oryza sativa L.&rpar; diversity panel 1](https://paulkasemsap.github.io/news/2025/03/17/dryad-rice-rdp1-n-gwas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### :open_book: Currently reading
